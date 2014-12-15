@@ -40,6 +40,22 @@ sum(1:10)
 
 ---
 
+## Slide 3
+
+
+```r
+fit <- rnorm(10,1)
+summary(fit)
+```
+
+```
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+## -0.4638  0.3067  0.4580  0.6940  1.0960  2.2600
+```
+
+
+---
+
 ## Slide 4
 
 
