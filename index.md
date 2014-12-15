@@ -1,9 +1,9 @@
 ---
-title       : Test First Deck
+title       : Test 2 First Deck
 subtitle    : subtitle for test
 author      : Sebastien Dupuis
 job         : Director
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -22,5 +22,28 @@ knit        : slidify::knit2slides
 ## Slide 2
 
 
+```r
+sum(1:10)
+```
+
+```
+## [1] 55
+```
+
+```r
+10*11/2
+```
+
+```
+## [1] 55
+```
+
+---
+
+## Slide 3
 
 
+```r
+fit <- 1:10
+summary(fit)
+```
