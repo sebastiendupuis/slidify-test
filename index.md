@@ -48,11 +48,6 @@ fit <- rnorm(10,1)
 summary(fit)
 ```
 
-```
-##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-## -0.4638  0.3067  0.4580  0.6940  1.0960  2.2600
-```
-
 
 ---
 
@@ -62,5 +57,10 @@ summary(fit)
 ```r
 fit <- rnorm(10,1)
 summary(fit)
+```
+
+```
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+## -0.2748  1.0550  1.2060  1.0830  1.4910  2.0520
 ```
 
