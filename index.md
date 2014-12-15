@@ -40,10 +40,11 @@ sum(1:10)
 
 ---
 
-## Slide 3
+## Slide 4
 
 
 ```r
-fit <- 1:10
+fit <- rnorm(10,1)
 summary(fit)
 ```
+
