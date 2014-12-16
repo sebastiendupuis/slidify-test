@@ -17,9 +17,9 @@ knit        : slidify::knit2slides
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
 
---- .class #id 
+---
 
-## Slide 2
+## Slide 2.1
 
 ```{r}
 sum(1:10)
